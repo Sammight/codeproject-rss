@@ -1,0 +1,10 @@
+var feed = new RSS({
+	title: '',
+	description: '',
+	feed_url: '',
+	site_url: '',
+	image_url: '',
+	language: 'en',
+	ttl: '60',
+	categories: ['1', '2', '3']
+})
