@@ -1,0 +1,225 @@
+Microsoft Reciprocal License
+A Microsoft open license and a free software license . Allows for distribution of derived code so long as the modified source files are included and retain the Ms-RL.
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: True
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The Code Project Open License (CPOL)
+The main points subject to the terms of the License are:
+
+Source Code and Executable Files can be used in commercial applications;
+Source Code and Executable Files can be redistributed; and
+Source Code can be modified to create derivative works.
+No claim of suitability, guarantee, or any warranty whatsoever is provided. The software is provided "as-is".
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: True
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The Common Development and Distribution License (CDDL)
+Based on the Mozilla Public License (MPL) that makes it more applicable for use outside the Mozilla Foundation.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: True
+Provides an explicit patent license: True
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The Microsoft Public License (Ms-PL)
+Used by Microsoft. Compiled derived code can be distributed, for both commercial and non-commercial use. If the source code is to be redistributed then a complete copy of this license must be included in the redistribution.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: True
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The Mozilla Public License 1.1 (MPL 1.1)
+Used by Mozilla and Firefox, among others. The patent clauses are not acceptable to some.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: True
+Provides an explicit patent license: True
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The Common Public License Version 1.0 (CPL)
+Derived from the IBM Public License and influenced by the Mozilla Public License, and used by some Microsoft projects on SourceForge.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: True
+Provides an explicit patent license: True
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The Eclipse Public License 1.0
+A newer version of the Common Public License that is in some cases more acceptable to business.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: True
+Provides an explicit patent license: True
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The MIT License
+A very old license with essentially no restrictions on the use of the code. It also provides very little in the way of protection for authors or users. It is the same as the BSD license without the 'no endorsement' clause.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The BSD License
+A very old license with essentially no restrictions on the use of the code. It also provides very little in the way of protection for authors or users. It is the same as the MIT license except that it includes a clause preventing the use of the author's name for endorsement.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The Apache License, Version 2.0
+Slightly more restrictive (but still very open) version of the BSD or MIT license that adds patent clauses. Read carefully.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: True
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The Creative Commons Attribution-ShareAlike 2.5 License
+A license that requires a link be visible on works that use this license. "Share alike" is what it sounds like, you can share this work as long as that work has a license similar to this one.
+
+It is recommended that this license not be used for software.
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: False
+Is a viral licence: True
+Supported by CodeProject: False
+The zlib/libpng License
+A license with an emphasis on freedom of use and re-use, with a few restrictions.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+A Public Domain dedication
+Not a license, but a dedication to the public domain. All rights are given up and anyone can do anything they wish with the code. Please note this is not a license and provides no guarantees for the user and no indemnities for the author.
+
+Provides copyright protection: False
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: False
+Supported by CodeProject: True
+The Creative Commons Attribution 3.0 Unported License
+This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. It is recommended that this license not be used for software.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: False
+Is a viral licence: True
+Supported by CodeProject: False
+The Creative Commons Attribution-Share Alike 3.0 Unported License
+A license that requires a link be visible on works that use this license. "Share alike" is what it sounds like; you can share this work as long as that work has a license similar to this one. It is recommended that this license not be used for software.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: False
+Is a viral licence: True
+Supported by CodeProject: True
+The Creative Commons Attribution-NoDerivatives 3.0 Unported
+A license which specifies that if you remix, transform, or build upon the material, you may not distribute the modified material. It is recommended that this license not be used for software.
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: False
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: False
+Is a viral licence: True
+Supported by CodeProject: True
+The GNU Lesser General Public License (LGPLv3)
+A derivative of the GPL that was intended to allow non-GPL code to work with, and call GPL code. The author of this license asks that you only use this license if you are licensing functionality already commonly available.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: True
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: True
+Is a viral licence: True
+Supported by CodeProject: True
+Example usage in your code
+
+(Replace 'Foobar' with the name of your product)
+This file is part of Foobar.
+ 
+Foobar is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+ 
+Foobar is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Lesser Public License for more details.
+ 
+You should have received a copy of the GNU Lesser Public License
+along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+The GNU General Public License (GPLv3)
+A common but misunderstood license. This allows developers to freely use the software as long as they use the same (or an even less restrictive) license for parts of the program that they wrote themselves. Viral in nature. Read carefully and make sure you understand the implications of using this license. Unacceptable to many.
+
+You can write commercial software using software licensed with the GPL, but you cannot write proprietary software (meaning software for which the code is not freely available). You can sell GPL code, even if it's already being given away, or you can sell services attached to the code such as support contracts.
+
+Any software written using GPL'd code must itself be licensed using the GPL (or less restrictive license) meaning it cannot be proprietary. This means that developers writing commercial software may not be able to use GPL code if they do not wish to provide the code.
+
+One important note (thanks to René Pfeiffer): The GPL doesn't require you to publish the source to the world. Only the recipient of the software needs to have the source. If you have a customer, write GPLed software for a specific purpose and only give the binary to this customer, then only this customer must have access to the source code, not everybody and not the public; just the recipient of the (binary) code. This is in full agreement to the GPL. The main advantage is to play with open cards and not create a "blackmail" situation.
+
+At the Code Project we prefer that developers allow other developers to use their freely given code in whatever way they wish - commercial, proprietary, or free for anyone. Our preference is that our authors do not use a GPL-like license.
+
+Provides copyright protection: True
+Can be used in commercial applications: True
+Bug fixes / extensions must be released to the public domain: True
+Provides an explicit patent license: False
+Can be used in proprietary (closed source) applications: False
+Is a viral licence: True
+Supported by CodeProject: True
+Example usage in your code
+
+(Replace 'Foobar' with the name of your product)
+This file is part of Foobar.
+ 
+Foobar is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+ 
+Foobar is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+ 
+You should have received a copy of the GNU General Public License
+along with Foobar.  If not, see <http://www.gnu.org/licenses/>.

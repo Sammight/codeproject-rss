@@ -18,18 +18,17 @@ Creating .rss to contribute to programming community by CodeProject.
 
 ### Process
 
-1 Create blogs in folder
-2 Create feed items
-3 Create .rss
-4 Host xml .rss file
-5 Import blog on codeproject
+1. Create blogs in folder
+2. Create feed items
+3. Create .rss (example: https://www.reddit.com/.rss)
+4. Host xml .rss file
+5. Import blog on codeproject
 
-1 blog/mmddyyyy-<username>-blog
-2 [CentOS 7] ./codeproject.sh
-3 [CentOS 7] node-10.24.1/bin/node main.js >> .rss
-4 [CentOS 7] node-10.24.1/bin/node server.js 
-	https://localhost/abakasam-codeproject/.rss
-5 https://www.codeproject.com/script/Articles/BlogFeed.aspx
+1. blog/mmddyyyy-<username>-blog
+2. [CentOS 7] ./codeproject.sh
+3. [CentOS 7] node-10.24.1/bin/node main.js >> .rss
+4. [CentOS 7] node-10.24.1/bin/node server.js, https://localhost/abakasam-codeproject/.rss
+5. https://www.codeproject.com/script/Articles/BlogFeed.aspx
 
 ### Runtime
 
@@ -43,60 +42,39 @@ xml > rss > http
 
 #### User
 
-## required format
+##### Folder Format
 
-TYPE BLOG ACCORDING TO FORMAT codeproject_tempate.htm
+(path)/username/blog/mmddyyyy-username-blog
 
-## article
-
-### rss example
-
-https://www.reddit.com/.rss (example.rss)
-
-### filename
-
-mmddyyyy-username-blog
-
-#### foldername example
-
-(path)=/home/cabox/workspace
-
-(path)/username/blog/(filename)
-
-##### foldername recommendation
-
+username/
+username/blog
 username/blog/(filename)
+abakasam/
+abakasam/blog
+abkaasam/blog/06162023-abakasam-blog
 
-### fitletitle
-
-Title:       Enter Article Title Here
-Description: Enter a one-liner that describes your article
-Abstract:    Enter a single paragraph (or less) that summarise what this article is about
-
-Author:      Enter your Code Project User Name (or suggest one if you're not a member)
-Email:       Enter your Code Project E-mail Login (or the email you wish to use if not a member)
-
-Language:    Enter the Languages that Apply to Your Article (TypeScript, C# 3.0, etc.)
-Platform:    Enter the Platforms that Apply to Your Article (Linux, Android, Windows etc.)
-Technology:  Enter the Technologies that Apply to Your Article (.NET Core, node.js, etc.)
-Topic:       What is the article about (Graphimg, AI, data processing etc)
-
-Section      Enter the Code Project Section you Wish the Article to Appear
-SubSection   Enter the Code Project SubSection you Wish the Article to Appear
-
-License:     Enter the license (<a href="http://www.codeproject.com/info/licenses.aspx">CPOL, CPL, MIT, etc</a>)
-
-#### title template
+##### Title Format
 
 Date, Title, Description, Abstract, Author, Email, Language, Platform, Technology, Topic, Section, SubSection, License
 
-### topics
+codeproject_template.htm: STEP 1
 
-codeproject-topics.mhtml
+#### Example Article
 
-### format
+codeproject_article.mhtml
 
-codproject-template.htm
+- Title: Chess Program in C#
+- Description: SrcChess is a chess program built in C#
+- Abstract: SrcChess is a chess program that supports a reasonable number of functions and is built using C#
+- Author: Jacques Fournier
+- Email: <username>@<domain>
+- Language: C#
+- Platform: Windows
+- Technology: WPF
+- Topic: C# chess game
+- Section: Game Development
+- SubSection
+- License: GPL3
 
 ### Team
 
