@@ -1,6 +1,6 @@
 # CodeProject RSS
 
-
+![Logo](https://raw.githubusercontent.com/abakasam/codeproject-rss/main/logo.png)
 
 ## Description
 
