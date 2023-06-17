@@ -24,6 +24,8 @@ Creating .rss to contribute to programming community by CodeProject.
 4. Host xml .rss file
 5. Import blog on codeproject
 
+
+
 1. blog/mmddyyyy-<username>-blog
 2. [CentOS 7] ./codeproject.sh
 3. [CentOS 7] node-10.24.1/bin/node main.js >> .rss
