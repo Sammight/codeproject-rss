@@ -1,36 +1,51 @@
-? Logo
+# CodeProject RSS
+
+
 
 ## Description
+
+Creating .rss to contribute to programming community by CodeProject.
+
 ## Architecture
-## Examples
 
-## required format
-
-TYPE BLOG ACCORDING TO FORMAT codeproject_tempate.htm
-
-## running
-
-1 create blogs in folder (blog/)
-2 create feed items (./codeproject.sh)
-3 create .rss (node main.js)
-4 host xml .rss file (https://localhost/abakasam-codeproject/.rss)
-
-### example
-
-1 node-v10.24.1/bin/node main.js >> .rss
-2 node-v10.24.1/bin/node server.js
-
-3 https://drifty-abakasam720639.codeanyapp.com/.rss
-4 https://www.codeproject.com/script/Articles/BlogFeed.aspx
-5 ?
-
-## software
+### Modules
 
 	node		10.24.1
 	mime-db		1.25.0
 	mime-types	2.1.13
 	rss			1.2.2
 	xml			1.0.1
+
+### Process
+
+1 Create blogs in folder
+2 Create feed items
+3 Create .rss
+4 Host xml .rss file
+5 Import blog on codeproject
+
+1 blog/mmddyyyy-<username>-blog
+2 [CentOS 7] ./codeproject.sh
+3 [CentOS 7] node-10.24.1/bin/node main.js >> .rss
+4 [CentOS 7] node-10.24.1/bin/node server.js 
+	https://localhost/abakasam-codeproject/.rss
+5 https://www.codeproject.com/script/Articles/BlogFeed.aspx
+
+### Runtime
+
+hardware? > system > application > user > network
+
+#### System
+linux > node
+
+#### Application
+xml > rss > http
+
+#### User
+
+## required format
+
+TYPE BLOG ACCORDING TO FORMAT codeproject_tempate.htm
 
 ## article
 
@@ -82,3 +97,11 @@ codeproject-topics.mhtml
 ### format
 
 codproject-template.htm
+
+### Team
+
+	codeproject-rss/	
+		server.js		node development server for user
+		codeproject.sh	uses CodeProject template to create article
+		.rss			RSS blog
+		main.js			creates xml for RSS blog
